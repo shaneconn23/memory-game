@@ -1,0 +1,12 @@
+#game div {
+    border: 1px solid black;
+    width: 18%;
+    height: 300px;
+    margin: 10px;
+    display: inline-block;
+
+}
+
+#game div:hover {
+    border: 2px solid red;
+}
